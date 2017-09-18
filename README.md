@@ -1,4 +1,4 @@
-# saci
+# duct
 
 A general purpose language
 
